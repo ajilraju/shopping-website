@@ -1,3 +1,3 @@
-# Shopping Bucket website.
+# Shopping Bucket.
 
-Shopping Website by using HTML, CSS and Javascript.
+Shopping Website by using HTML, CSS, and Javascript.
